@@ -1,0 +1,3 @@
+print("Welcome to Destiny's Finest: your #1 grocery store that will supply all your needs!")
+print("Name your grocery list.")
+def create_list
